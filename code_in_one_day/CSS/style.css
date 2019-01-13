@@ -1,0 +1,50 @@
+html {
+	font-size: 15px;
+}
+
+body{
+	background-color: lightyellow;
+	color: black;
+	font-family: 'Muli', sans-serif;
+}
+
+h1{
+	color: deeppink;
+	font-size: 50px;
+	text-align: center;
+}
+
+h2{
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+
+p{
+	color: purple;
+	font-weight: bold;
+	text-align: center;
+}
+
+hr{
+  border: 1px solid black;
+  max-width: 90px;
+  margin: 40px auto;
+}
+
+ul{
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  padding: 30px;
+}
+
+#firstList {
+	background-color: lightpink;
+}
+
+img{ 
+	align-content: center;
+}
+
+
